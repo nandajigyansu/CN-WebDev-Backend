@@ -1,0 +1,15 @@
+// created automatically after command: npm init
+
+// package.json tells the configuration details of our server
+
+{
+  "name": "02.-node.js-writing-our-first-server",
+  "version": "1.0.0",
+  "description": "my first basic http server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jigyansu Nanda",
+  "license": "ISC"
+}
